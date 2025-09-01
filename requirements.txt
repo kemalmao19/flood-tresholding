@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+rasterio 
+numpy
+seaborn
+scikit-image
+matplotlib
+pycrs
+ipykernel
+ipython
+jupyter
+jupyterlab
